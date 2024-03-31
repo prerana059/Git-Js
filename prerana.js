@@ -13,7 +13,7 @@ const diff2 = (a,b)=> {
 };
 
 const diff1 =(a,b,c)=>{
-    console.log('doing something cool')
+    console.log('doing something cool prerana')
     return a-b-c;
 }
 
